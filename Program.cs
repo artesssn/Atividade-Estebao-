@@ -1,4 +1,5 @@
-﻿using System;
+//1067
+using System;
 
 class Program
 {
